@@ -1,4 +1,4 @@
-# 👋 Hi, I'mS Sid. I build cool S*** for the web!
+# 👋 Hi, I'm Sid. I build cool S**t for the web!
 
 ---
 
