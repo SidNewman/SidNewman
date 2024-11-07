@@ -15,7 +15,7 @@
 | ECS           | https://e-commerce.studio/ | WIP 🚧            |
 | Everybrand    | https://everybrand.co/     | MVP 🟠            |
 | Never Human   | https://neverhuman.co/     | WIP 🚧            |
-| VoucherBoy    | 404                        | Stable 🟢         |
+| VoucherBoy    | https://voucherboy.com/    | Stable 🟢         |
 | Descripti     | https://descripti.ai/      | Graveyard 💀      |
 | Trustify      | 404                        | Stable 🟢         |
 | Fluidify      | 404                        | WIP 🚧            |
