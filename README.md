@@ -3,7 +3,7 @@
 ---
 
 ### 🌐 About Me
-- 🔭 Full Stack Engineer at E-commerce Studio - a Shopify Design & Development Agency. Formerly Karmoon.
+- 🔭 Full Stack Engineer at **E-commerce Studio** - a Shopify Design & Development Agency. Formerly Karmoon.
 - 📫 Reach me at **sid@karmoon.co.uk**
 
 ---
