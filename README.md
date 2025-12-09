@@ -13,7 +13,7 @@
 | Project       | Link                       | Status            |
 |---------------|----------------------------|-------------------|
 | VoucherBoy    | https://voucherboy.com/    | Stable 🟢         |
-| ECS           | https://e-commerce.studio/ | WIP 🚧            |
+| ECS           | https://e-commerce.studio/ | Stable 🟢         |
 | Everybrand    | https://everybrand.co/     | MVP 🟠            |
 | Never Human   | https://neverhuman.co/     | WIP 🚧            |
 | Descripti     | https://descripti.ai/      | Graveyard 💀      |
