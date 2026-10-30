@@ -12,7 +12,7 @@
 
 | Project       | Link                       | Status            |
 |---------------|----------------------------|-------------------|
-| VoucherBoy    | https://voucherboy.com/    | Stable 🟢         |
+| VoucherBoy    | 404                        | Graveyard 💀      |
 | ECS           | https://e-commerce.studio/ | Stable 🟢         |
 | Everybrand    | https://everybrand.co/     | MVP 🟠            |
 | Never Human   | https://neverhuman.co/     | WIP 🚧            |
